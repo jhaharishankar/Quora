@@ -1,0 +1,45 @@
+header{
+    background-color:#eeeeee;
+}
+main{
+    background-color:#f1f8fb;
+}
+footer{
+    background-color:#f1f2f2;
+}
+h3>a{
+    color: #636466;
+    text-decoration: none;
+} 
+h3>a:hover{
+    text-decoration: underline;
+}
+h1{
+    color: #aa2200;
+}
+nav ul li a:hover{
+    color: #aa2200;
+}
+li>a{
+    color: black;
+    text-decoration: none;
+} 
+li>a:hover{
+    text-decoration: underline;
+}
+#head>button{
+    color:#333333;
+    background-color: #f1f8fb;
+}
+#user{
+    text-decoration: none;
+}
+#user:hover{
+    text-decoration: underline;
+}
+.upvote{
+    background-color: #2b6dad;
+}
+.upvote:hover{
+    background-color: #aa2200;
+}
